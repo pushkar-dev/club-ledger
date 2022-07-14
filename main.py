@@ -7,7 +7,7 @@ from os import getenv
 load_dotenv()
 app=Flask(__name__)
 
-SECRET_KEY = eval(getenv('SECRET_KEY'))
+SECRET_KEY = (getenv('SECRET_KEY'))
 print(SECRET_KEY)
 
 app.secret_key=SECRET_KEY # load some secret key from env
