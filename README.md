@@ -2,10 +2,10 @@
 club inventory management system
 
 ## Made by
-1. [Vanshaj Nathani](https://github.com/vanshajnathani)
-2. [Saksham Kumar](https://github.com/SKape22)
-3. [Om Kshatriya](https://github.com/OKomk)
-4. [Arkadeep Ghosh](https://github.com/exposedhost)
+1. [Arkadeep Ghosh](https://github.com/exposedhost)
+2. [Om Kshatriya](https://github.com/OKomk)
+3. [Saksham Kumar](https://github.com/SKape22)
+4. [Vanshaj Nathani](https://github.com/vanshajnathani)
 
 # Setup
 1. Make a virtualenv
