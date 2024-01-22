@@ -13,8 +13,6 @@ copy ./alembic ./alembic
 copy ./migrations ./migrations 
 copy ./alembic.ini ./alembic.ini
 
-# RUN alembic revision --autogenerate -m "init"
-# RUN alembic upgrade head
 
 # 
 CMD ["uvicorn", "app.main:app","--reload", "--host", "0.0.0.0", "--port", "8000"]
